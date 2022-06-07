@@ -4,7 +4,7 @@ st.title("Wir haben Grund zum Feiern!")
  
 st.write("Aber warum wohl?")
 
-quiz = ['Anna kommt in die Schule!', 'Anna kann schon alleine eine Schleife binden!', 'Anna hat Geburtstag!', 'Anna kann auf einem Bein rückwärts hüpfen!']
+quiz = ['Anna kann schon lesen!', 'Anna kann schon alleine eine Schleife binden!', 'Anna hat Geburtstag!', 'Anna kann auf einem Bein rückwärts hüpfen!']
 
 choice = st.radio(label='Was gibt es heute zu feiern?', options=quiz)
 
